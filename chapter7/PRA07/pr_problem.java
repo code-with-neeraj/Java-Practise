@@ -99,7 +99,7 @@ public class pr_problem {
 
         // Question8: Repeat 2 using Recursion.
 
-        pattern1_rec(4); 
+        // pattern1_rec(4); 
 
         // Question9: write a function to convert Celsius temperature into fahrenheit.
 
